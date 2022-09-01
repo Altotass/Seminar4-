@@ -1,0 +1,15 @@
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\bin\Debug\net6.0\HW04_003.exe
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\bin\Debug\net6.0\HW04_003.deps.json
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\bin\Debug\net6.0\HW04_003.runtimeconfig.json
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\bin\Debug\net6.0\HW04_003.dll
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\bin\Debug\net6.0\HW04_003.pdb
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.csproj.AssemblyReference.cache
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.AssemblyInfoInputs.cache
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.AssemblyInfo.cs
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.csproj.CoreCompileInputs.cache
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.dll
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\refint\HW04_003.dll
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.pdb
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\HW04_003.genruntimeconfig.cache
+C:\Users\ray1\Desktop\Языки программирования\Seminar-5\HW04\HW04_003\obj\Debug\net6.0\ref\HW04_003.dll
